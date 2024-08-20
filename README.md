@@ -1,7 +1,7 @@
 # Python Proficiency Repository
 
 Welcome to my Python Proficiency repository! This repository is a comprehensive collection of code snippets, implementations, and concepts covering a wide range of topics within Python. It's designed to showcase my proficiency in these areas and serve as a valuable resource for learning and reference.
----
+
 ## Table of Contents
 ### 1. Python Essentials
 
@@ -95,34 +95,33 @@ Welcome to my Python Proficiency repository! This repository is a comprehensive 
 - [Packages](Modules_and_Packages/Packages)
 - [Virtual Environments](Modules_and_Packages/Virtual_Environments)
 - [Referencing](Modules_and_Packages/Referencing)
----
+
 ## How to Use This Repository
 
 This repository is organized into sections and chapters, making it easy to navigate to the specific topics you're interested in.
 
-**Python Essentials**: Basics of Python syntax, data types, variables, operators.
-**Control Flow**: Conditional statements, loops, and range function.
-**Data Structures**: Lists, tuples, dictionaries, and sets.
-**Functions**: Function definitions, arguments, lambda functions, recursion, decorators, closures, type hinting, variable scopes, and first-class functions.
-**Error Handling and Debugging**: Exception handling, try-except blocks, raising exceptions, custom exceptions, and debugging techniques.
-**Object-Oriented Programming (OOP)**: Classes, objects, inheritance, encapsulation, polymorphism, abstract base classes, static and class methods, magic methods, private and protected attributes, and dynamic class creation.
-**Generators and Iterators**: Iterators, generators, lazy evaluation, and advanced generator concepts.
-**Asynchronous Programming**: Asyncio basics, async/await syntax, and concurrency patterns.
-**Multithreading and Multiprocessing**: Threading, multiprocessing, and concurrent execution.
-**Testing**: Unit testing, pytest framework, and test-driven development (TDD).
-**File Handling**: File I/O basics, context managers, working with paths, and advanced file operations.
-**Modules and Packages**: Importing modules, creating modules, packages, virtual environments, and referencing.
----
+- **Python Essentials**: Basics of Python syntax, data types, variables, operators.
+- **Control Flow**: Conditional statements, loops, and range function.
+- **Data Structures**: Lists, tuples, dictionaries, and sets.
+- **Functions**: Function definitions, arguments, lambda functions, recursion, decorators, closures, type hinting, variable scopes, and first-class functions.
+- **Error Handling and Debugging**: Exception handling, try-except blocks, raising exceptions, custom exceptions, and debugging techniques.
+- **Object-Oriented Programming (OOP)**: Classes, objects, inheritance, encapsulation, polymorphism, abstract base classes, static and class methods, magic methods, private and protected attributes, and dynamic class creation.
+- **Generators and Iterators**: Iterators, generators, lazy evaluation, and advanced generator concepts.
+- **Asynchronous Programming**: Asyncio basics, async/await syntax, and concurrency patterns.
+- **Multithreading and Multiprocessing**: Threading, multiprocessing, and concurrent execution.
+- **Testing**: Unit testing, pytest framework, and test-driven development (TDD).
+- **File Handling**: File I/O basics, context managers, working with paths, and advanced file operations.
+- **Modules and Packages**: Importing modules, creating modules, packages, virtual environments, and referencing.
+
 ## Contributing
 
 I welcome contributions to this repository! If you find any issues, have suggestions for improvements, or want to add new content, please feel free to open an issue or submit a pull request.
----
+
 ## License
 
 This repository is licensed under the MIT License. See the LICENSE file for details.
----
+
 ## Contact
 
 If you have any questions or feedback, please feel free to contact me.
 Thank you for visiting, and I hope you find this repository helpful in your learning journey.
----
